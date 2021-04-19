@@ -1,4 +1,23 @@
 .App {
   text-align: center;
+  position: relative;
+  display: block;
+  min-height: 100vh;
+  overflow: hidden;
+  padding-bottom: 6px;
+}
+
+.left{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  padding: 20px;
+  background-color: grey;
+}
+
+.right{
+  margin-left: 380px;
+  height: 100%;
 }
 

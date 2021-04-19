@@ -1,3 +1,17 @@
+# Personal Web Page
+This project creating the personal web page including personal information and experience,
+showing the ability and experience of the individual.
+
+## Using Material-UI
+This project uses Material-UI for UI set up
+
+## Component Structure
+              App
+        /            \
+    nav list        main
+                    / | | | \
+                   the component containing information corresponding to select list item
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

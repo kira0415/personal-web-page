@@ -1,4 +1,14 @@
 @import "./styles/App.css";
+@import "./styles/Menu.css";
+@import "./styles/Main.css";
+@import "./styles/Home.css";
+@import "./styles/Work.css";
+@import "./styles/JobPlus.css";
+@import "./styles/Delivery4You.css";
+@import "./styles/Around.css";
+@import "./styles/Starlink.css";
+@import "./styles/Tinnews.css";
+
 
 body {
   margin: 0;
